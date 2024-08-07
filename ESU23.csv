@@ -1,4 +1,4 @@
-Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment,Notification Enabled,Sound Notification Enabled,Notification Is Repeatable,Delay Before Repeating,Subscribing Offset,Notification Sound
+Symbol,Price Level,Note,Foreground Color,Background Color
 ESU3.CME@RITHMIC,4378.5,mHVN,#ffffff,#da611e,left,,,,,,
 ESU3.CME@RITHMIC,4384.5,mHVN,#ffffff,#da611e,left,,,,,,
 ESU3.CME@RITHMIC,4402,mHVN,#ffffff,#da611e,left,,,,,,
