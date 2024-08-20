@@ -1,5 +1,7 @@
 "Symbol","Price Level","Note","Foreground Color","Background Color","Text Alignment","Notification Enabled","Sound Notification Enabled","Notification Is Repeatable","Delay Before Repeating","Subscribing Offset","Notification Sound"
 "ESU4.CME@RITHMIC","5554.00","hGEX","#1a0909","#1edaa2","left","true","false","","","",""
+","","","",""
+"ESU4.CME@RITHMIC","5630.50","mHVN","#ffffff","#da611e","left","","","","","",""
 "ESU4.CME@RITHMIC","5446.50","mHVN","#ffffff","#da611e","left","","","","","",""
 "ESU4.CME@RITHMIC","5373.75","mHVN","#ffffff","#da611e","left","","","","","",""
 "ESU4.CME@RITHMIC","5365.50","mHVN","#ffffff","#da611e","left","","","","","",""
