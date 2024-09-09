@@ -1,5 +1,6 @@
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment,Notification Enabled,Sound Notification Enabled,Notification Is Repeatable,Delay Before Repeating,Subscribing Offset,Notification Sound
-ESU4.CME-UNB@TM.Pro,5554,hGEX,#1a0909,#1edaa2,left,TRUE,FALSE,,,,
+ESU4.CME-UNB@TM.Pro,5554,Elvis,#000066,#1edaa2,left,TRUE,FALSE,,,,
+ESU4.CME-UNB@TM.Pro,5552,Elvis,#1a0909,#1edaa2,left,TRUE,FALSE,,,,
 ESU4.CME-UNB@TM.Pro,5630.5,mHVN,#ffffff,#da611e,left,,,,,,
 ESU4.CME-UNB@TM.Pro,5627.5,mHVN,#ffffff,#da611e,left,,,,,,
 ESU4.CME-UNB@TM.Pro,5446.5,mHVN,#ffffff,#da611e,left,,,,,,
