@@ -1,5 +1,6 @@
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment,Notification Enabled,Sound Notification Enabled,Notification Is Repeatable,Delay Before Repeating,Subscribing Offset,Notification Sound
 ESZ4.CME@RITHMIC,5554,hGEX,#1a0909,#1edaa2,left,TRUE,FALSE,,,,
+ESZ4.CME@RITHMIC,5838.0,mHVN,#ffffff,#da611e,left,,,,,,
 ESZ4.CME@RITHMIC,5824.5,mHVN,#ffffff,#da611e,left,,,,,,
 ESZ4.CME@RITHMIC,5815.5,mHVN,#ffffff,#da611e,left,,,,,,
 ESZ4.CME@RITHMIC,5811.5,mHVN,#ffffff,#da611e,left,,,,,,
