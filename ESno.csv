@@ -1,6 +1,13 @@
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment,Notification Enabled,Sound Notification Enabled,Notification Is Repeatable,Delay Before Repeating,Subscribing Offset,Notification Sound
 ESZ4.CME-UNB@TM.Pro,5554,Elvis,#000066,#1edaa2,left,TRUE,FALSE,,,,
 ESZ4.CME-UNB@TM.Pro,5552,Elvis,#1a0909,#1edaa2,left,TRUE,FALSE,,,,
+ESZ4.CME-UNB@TM.Pro,6062.0,mHVN,#ffffff,#da611e,left,,,,,,
+ESZ4.CME-UNB@TM.Pro,6052.0,mHVN,#ffffff,#da611e,left,,,,,,
+ESZ4.CME-UNB@TM.Pro,6041.0,mHVN,#ffffff,#da611e,left,,,,,,
+ESZ4.CME-UNB@TM.Pro,6030.0,mHVN,#ffffff,#da611e,left,,,,,,
+ESZ4.CME-UNB@TM.Pro,6023.0,mHVN,#ffffff,#da611e,left,,,,,,
+ESZ4.CME-UNB@TM.Pro,6015.0,mHVN,#ffffff,#da611e,left,,,,,,
+ESZ4.CME-UNB@TM.Pro,6004.0,mHVN,#ffffff,#da611e,left,,,,,,
 ESZ4.CME-UNB@TM.Pro,6000.0,mHVN,#ffffff,#da611e,left,,,,,,
 ESZ4.CME-UNB@TM.Pro,5980.0,mHVN,#ffffff,#da611e,left,,,,,,
 ESZ4.CME-UNB@TM.Pro,5968.0,mHVN,#ffffff,#da611e,left,,,,,,
